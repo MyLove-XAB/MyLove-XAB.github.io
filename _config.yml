@@ -21,7 +21,7 @@ repository               : "MyLove-XAB/MyLove-XAB.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "downsampling.png"
   name             : "Aobo Xu"
   pronouns         : # example: "she/her"  
   bio              : "Better to run than curse the road"
