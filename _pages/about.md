@@ -10,23 +10,23 @@ redirect_from:
 A PhD student in the School of Economics and Management at China University of Petroleum (East China). 
 
 ## Research Interest
-------
+
 Reinforcement Learning; Knowledge Graph; Natural Language Processing.
 
 ## Education
-------
+
 - 2023--Present, Ph.D. Student, Management Science and Engineering, China University of Petroleum (East China), Supervisor: Ling Jian
 - 2020--2023, M.M., Management Science and Engineering, China University of Petroleum (East China), Supervisor: Ling Jian
 - 2016--2020, B.Ed., Education, Tianjin University
 
 ## Selected Honors and Awards
-------
+
 - 2024, KDD CUP OAG-Challenge, Honorable Prize (11th, \$ 500)
 - 2023, Shandong Provincial Graduate Innovation Achievement Award
 - 2023, "Challenge Cup" National College Student Extracurricular Academic Science and Technology Works Competition, First Prize (RMB 33,000)
 - 2022, Shandong Province "Internet Plus" College Student Innovation and Entrepreneurship Competition, Silver Award (RMB 13,000)
 - 2021, "Teddy Cup" Data Analysis Skills Competition, First Prize
-------
+
 
 ## Publications
 
