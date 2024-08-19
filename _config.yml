@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "909A0967x高清.jpg"
+  avatar           : "profile.png"
   name             : "Aobo Xu"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Better to run than curse the road"
   location         : "Qingdao, China"
   employer         : "China University of Petroleum"
   uri              : # URL
