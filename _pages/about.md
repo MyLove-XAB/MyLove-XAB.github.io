@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-A PhD student in the School of Economics and Management at China University of Petroleum (East China). 
+A PhD student in the School of Economics and Management at China University of Petroleum, QingDao, China. 
 
 ## Research Interest
 
