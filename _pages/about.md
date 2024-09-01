@@ -31,14 +31,15 @@ Reinforcement Learning; Knowledge Graph; Natural Language Processing.
 ## Publications
 
 ### Journals
-- [1] **Aobo Xu**, Ling Jian†, Yue Yin & Na Zhang. UISA: User Information Separating Architecture for Commodity Recommendation Policy with Deep Reinforcement Learning. ACM Transactions on
-Recommender Systems, 2024.
+- [1] **Aobo Xu**, Ling Jian†, Yue Yin & Na Zhang. UISA: User Information Separating Architecture for Commodity Recommendation Policy with Deep Reinforcement Learning. _ACM Transactions on
+Recommender Systems_, 2024.
+- [2] Kai Shao, Xinmin Wang, Min Liu, **Aobo Xu** & Ling Jian†. Efficient Pump Scheduling for Large-scale Multi-Product Pipelines using Deep Reinforcement Learning. _International Journal of Adaptive Control and Signal Processing_, 2024.
 
 ### Conferences
-- [1] **Aobo Xu**, & Ling Jian†. A Deep News Headline Generation Model with REINFORCE Filter. 2023 International Joint Conference on Neural Networks (IJCNN), IEEE, 2023.
+- [1] **Aobo Xu**, & Ling Jian†. A Deep News Headline Generation Model with REINFORCE Filter. _2023 International Joint Conference on Neural Networks (IJCNN), IEEE_, 2023.
 
 ### Preprints
-- [1] **Aobo Xu**, Bingyu Chang, Qingpeng Liu, & Ling Jian†. Automatic workflow management for spatial heritage data. arXiv preprint arXiv:2407.17722, 2024.
+- [1] **Aobo Xu**, Bingyu Chang, Qingpeng Liu, & Ling Jian†. Automatic workflow management for spatial heritage data. _arXiv preprint arXiv:2407.17722_, 2024.
 
 ## Professional Activities
 - Reviewer, KDD CUP OAG-Challenge, 2024.
