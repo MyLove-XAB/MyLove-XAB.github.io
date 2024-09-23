@@ -39,7 +39,7 @@ Recommender Systems_, 2024.
 - [1] **Aobo Xu**, & Ling Jian†. A Deep News Headline Generation Model with REINFORCE Filter. _2023 International Joint Conference on Neural Networks (IJCNN), IEEE_, 2023.
 
 ### Preprints
-- [1] **Aobo Xu**, Bingyu Chang, Qingpeng Liu, & Ling Jian†. Automatic workflow management for spatial heritage data. _arXiv preprint arXiv:2407.17722_, 2024.
+- [1] **Aobo Xu**, Bingyu Chang, Qingpeng Liu, & Ling Jian†. Text-Driven Neural Collaborative Filtering Model for Paper Source Tracing. _arXiv preprint arXiv:2407.17722_, 2024.
 
 ## Professional Activities
 - Reviewer, KDD CUP OAG-Challenge, 2024.
