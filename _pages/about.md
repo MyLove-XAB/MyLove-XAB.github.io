@@ -34,7 +34,7 @@ Reinforcement Learning; Knowledge Graph; Natural Language Processing.
 ### Journals
 - [1] **Aobo Xu**, Ling Jian†, Yue Yin & Na Zhang. [UISA: User Information Separating Architecture for Commodity Recommendation Policy with Deep Reinforcement Learning](https://MyLove-XAB.github.io/assets/TORS.pdf). _ACM Transactions on
 Recommender Systems_, 2024. 
-- [2] Min Liu, Yundong Yuan, **Aobo Xu**, Tianhu Deng \& Ling Jian†. [A learning-based artificial bee colony algorithm for operation optimization in gas pipelines](https://MyLove-XAB.github.io/assets/Ins.pdf). _Information Sciences_, 2024.
+- [2] Min Liu, Yundong Yuan, **Aobo Xu**, Tianhu Deng & Ling Jian†. [A learning-based artificial bee colony algorithm for operation optimization in gas pipelines](https://MyLove-XAB.github.io/assets/Ins.pdf). _Information Sciences_, 2024.
 - [3] Kai Shao, Xinmin Wang, Min Liu, **Aobo Xu** & Ling Jian†. [Efficient Pump Scheduling for Large-scale Multi-Product Pipelines using Deep Reinforcement Learning](https://MyLove-XAB.github.io/assets/ACSP.pdf). _International Journal of Adaptive Control and Signal Processing_, 2024.
 
 ### Conferences
