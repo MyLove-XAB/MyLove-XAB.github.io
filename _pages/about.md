@@ -22,7 +22,7 @@ Reinforcement Learning; Large Language Models; Knowledge Graph.
 ## Selected Honors and Awards
 
 - 2024, KDD CUP OAG-Challenge, Honorable Prize (11th, \$ 500)
-- 2024,  China University of Petroleum The 6th Qinglan Forum for Doctoral Students, Best Poster Award（RMB, 1,000）
+- 2024,  China University of Petroleum The 6th Qinglan Forum for Doctoral Students, Best Poster Award（RMB 1,000）
 - 2023, Shandong Provincial Graduate Innovation Achievement Award
 - 2023, "Challenge Cup" National College Student Extracurricular Academic Science and Technology Works Competition, First Prize (RMB 33,000)
 - 2022, Shandong Province "Internet Plus" College Student Innovation and Entrepreneurship Competition, Silver Award (RMB 13,000)
