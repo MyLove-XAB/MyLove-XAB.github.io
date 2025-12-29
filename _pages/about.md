@@ -43,7 +43,7 @@ Recommender Systems_, 2024.
 - [1] **Aobo Xu**, & Ling Jian†. [A Deep News Headline Generation Model with REINFORCE Filter](https://MyLove-XAB.github.io/assets/IJCNN2023.pdf). _2023 International Joint Conference on Neural Networks (IJCNN), IEEE_, 2023.
 
 ### Preprints
-- [1] **Aobo Xu**, Bingyu Chang, Qingpeng Liu, & Ling Jian†. Text-Driven Neural Collaborative Filtering Model for Paper Source Tracing. _arXiv preprint arXiv:2407.17722_, 2024.
+- [1] **Aobo Xu**, Bingyu Chang, Qingpeng Liu, & Ling Jian†. [Text-Driven Neural Collaborative Filtering Model for Paper Source Tracing](https://arxiv.org/abs/2407.17722). _arXiv preprint arXiv:2407.17722_, 2024.
 
 ### Patents
 - [1] **Aobo Xu**, Chonzhi Rao, Bingyu Chang, Xuan Zhang, & Ling Jian. Knowledge graph intelligent construction model based on knowledge transfer learning strategy. Patents for Inventions, Publication (CN202311705384.2A), 2024.
