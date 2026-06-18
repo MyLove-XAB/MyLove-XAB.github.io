@@ -18,7 +18,11 @@ Reinforcement Learning; Large Language Models; Knowledge Graph.
 - 2023--Present, Ph.D. Student, Management Science and Engineering, China University of Petroleum (East China), Supervisor: Ling Jian
 - 2025--Present, Visiting Ph.D. Student, Economic Informatics, Lomonosov Moscow State University, Supported by the China Scholarship Council (Grant No. 20250450059), Supervisor: Vladimir Nikolaevich Sidorenko
 - 2020--2023, M.M., Management Science and Engineering, China University of Petroleum (East China), Supervisor: Ling Jian
-- 2016--2020, B.Ed., Education, Tianjin University
+- 2016--2020, B.Ed., Education, Tianjin University, Supervisor: Yang Liu
+
+## Grants and Projects
+- Research on Breakthrough Paper Recognition Methods within a Multi-Agent Framework, Innovation fund project for graduate student of China University of Petroleum (East China) and the Fundamental Research Funds for the Central Universities (Grant No.26CX04050A), 2026.01--2026.12
+- China Scholarship Council (Grant No. 202506450059), 2025.10--2026.09
 
 ## Selected Honors and Awards
 
@@ -35,7 +39,7 @@ Reinforcement Learning; Large Language Models; Knowledge Graph.
 ### Journals
 - [1] **Aobo Xu**, Ling Jian†, Yue Yin & Na Zhang. [UISA: User Information Separating Architecture for Commodity Recommendation Policy with Deep Reinforcement Learning](https://MyLove-XAB.github.io/assets/TORS.pdf). _ACM Transactions on
 Recommender Systems_, 2024.
-- [2] Songyuan Liu, Peng Zhou, Mei Wang, & **Aobo Xu**. [An agent-based approach to modeling power firms' emission reduction strategies and market dynamics](https://www.sciencedirect.com/science/article/pii/S0306261925013200?casa_token=aDq-6RxgzoQAAAAA:vIBbjctHljAqdrxYs3Dl_qoduIBaoLZqnidMlKbwvi8n23tG4cel32pOjByzivn3Ug1S5YNx8w). _Applied Energy_, 2025.
+- [2] Songyuan Liu, Peng Zhou†, Mei Wang†, & **Aobo Xu**. [An agent-based approach to modeling power firms' emission reduction strategies and market dynamics](https://MyLove-XAB.github.io/assets/AE.pdf). _Applied Energy_, 2025.
 - [3] Min Liu, Yundong Yuan, **Aobo Xu**, Tianhu Deng & Ling Jian†. [A learning-based artificial bee colony algorithm for operation optimization in gas pipelines](https://MyLove-XAB.github.io/assets/Ins.pdf). _Information Sciences_, 2025.
 - [4] Kai Shao, Xinmin Wang, Min Liu, **Aobo Xu** & Ling Jian†. [Efficient Pump Scheduling for Large-scale Multi-Product Pipelines using Deep Reinforcement Learning](https://MyLove-XAB.github.io/assets/ACSP.pdf). _International Journal of Adaptive Control and Signal Processing_, 2024.
 
@@ -50,6 +54,7 @@ Recommender Systems_, 2024.
 - [2] Xiao Gu, Zihan Xiang, **Aobo Xu**, Chonzhi Rao, & Ling Jian. Qingdao dialect voice recognition model based on Transformer. Patents for Inventions, Publication (CN202210797092.5A), 2024.
 
 ## Professional Activities
+- Reviewer, The IEEE World Congress on Computational Intelligence 2026 (WCCI 2026), IEEE/INNS International Joint Conference on Neural Networks (IJCNN) 2026
 - Reviewer, International Joint Conference on Neural Networks (IJCNN), 2025.
 - Reviewer, KDD CUP OAG-Challenge, 2024.
 
